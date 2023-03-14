@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Analise e desenvolvimento de sistema
 - 🌱 Trabalhando com Javascript
-- 👯 Estudando Javascript
+- 👯 Estudando react
 - 🤔 Pronomes: Ele/Dele
 
 <div>
